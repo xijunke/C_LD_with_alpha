@@ -1,6 +1,6 @@
 # C_LD_with_alpha
 
-*** Aerodynamic coefficients of lift and drag vs. angle of attack (\alpha) for flapping wing. ***
+***Aerodynamic coefficients of lift and drag vs. angle of attack (\alpha) for flapping wing.***
 
 针对扑翼飞行的气动升阻力系数随几何攻角(\alpha)的变化时间历程曲线。
 
