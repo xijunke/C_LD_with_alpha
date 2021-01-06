@@ -8,6 +8,9 @@
 
 ## 2. Aerodynamic coefficients of drag vs. angle of attack (\alpha)
 
+![lift_coefficients_with_alpha](https://github.com/xijunke/C_LD_with_alpha/blob/master/pic_png/lift_coefficients_with_alpha.png)
 
+
+![drag_coefficients_with_alpha](https://github.com/xijunke/C_LD_with_alpha/blob/master/pic_png/drag_coefficients_with_alpha.png)
 
 
